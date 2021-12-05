@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330541754666",
+    "firebase_url": "https://gis-information-2f984-default-rtdb.firebaseio.com",
+    "project_id": "gis-information-2f984",
+    "storage_bucket": "gis-information-2f984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330541754666:android:969255b7cf8b7159945653",
+        "android_client_info": {
+          "package_name": "com.banbeis.gis.information"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330541754666-lcrj7eidhkgpuqlacktju6kj2ablvrl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJtk7_e3MKvBbbdg3RihYvuhjctYg2IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330541754666-lcrj7eidhkgpuqlacktju6kj2ablvrl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
